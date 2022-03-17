@@ -1,2 +1,2 @@
-# lista
+# class
 Created with CodeSandbox
